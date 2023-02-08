@@ -1,0 +1,10 @@
+Process 1 needs Resource 1 - Resource 1 is allocated to Process 1
+Process 2 needs Resource 2 - Resource 2 is allocated to Process 2
+Process 3 needs Resource 3 - Resource 3 is allocated to Process 3
+Process 1 releases Resource 1 - Resource 1 is now free 
+Process 4 needs Resource 1 - Resource 1 is allocated to Process 4
+Process 2 releases Resource 2 - Resource 2 is now free 
+Process 5 needs Resource 2 - Resource 2 is allocated to Process 5
+Process 3 releases Resource 3 - Resource 3 is now free 
+Process 6 needs Resource 3 - Resource 3 is allocated to Process 6
+EXECUTION COMPLETED: No deadlock encountered
